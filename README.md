@@ -1,5 +1,6 @@
 # IceBreak
 IceBreak(cocos2d-x game)
+App store:https://apps.apple.com/cn/app/ice-break/id1434640097
 
 这是一款消除类游戏，与市面上大多数消除游戏不同，此游戏的通关方式不同，玩家需要不断通过消除来向下挖掘，来获得分数。 整体风格清新明朗，特效丰富，为玩家呈现一场不一样消除体验。
 
